@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374098244660",
+    "project_id": "kevin-ivy-wedding",
+    "storage_bucket": "kevin-ivy-wedding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374098244660:android:c289f5f9e48b4b33b0c661",
+        "android_client_info": {
+          "package_name": "com.example.kevin_ivy_wedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374098244660-3s7j8504rsb55pusedsni75aj1hd4ra7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfW4fAUPIsc8M2jjhbpr8FBnzHC3NbX9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374098244660-3s7j8504rsb55pusedsni75aj1hd4ra7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
